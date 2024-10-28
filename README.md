@@ -1,4 +1,4 @@
-# Spring Boot PostgreSQL Project
+# Food delivery service 
 
 This is a Spring Boot application for managing a PostgreSQL dataset, focused on handling customer-related data, deliveries, food reservations, and raw materials. The project includes various models, controllers, and repositories that provide a structured way to interact with the database.
 
